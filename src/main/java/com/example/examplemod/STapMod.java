@@ -1,4 +1,4 @@
-package com.yourname.stap;
+package com.example.examplemod;
 
 import net.minecraftforge.fml.common.Mod;
 
